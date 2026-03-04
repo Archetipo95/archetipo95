@@ -18,6 +18,8 @@ I'm particularly proud of my contributions as a **Lead Developer** and **QA Lead
 
 Developing accessible interfaces and ensuring everyone can have a usable and enjoyable user experience is an aspect of my work I deeply value.
 
+[![Archetipo95 Nuxter profile](https://nuxters.nuxt.com/card/Archetipo95/og.png)](https://nuxters.nuxt.com/Archetipo95)
+
 ---
 
 ## 🧘🏼‍♂️ My Philosophy
