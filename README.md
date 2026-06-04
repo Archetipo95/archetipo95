@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Martin
 
+My website: https://martinmasevski.dev/
+
 ## 👨🏼‍💻 About Me
 
 I'm a Software Engineer deeply passionate about front-end development, with over 5 years of professional experience dedicated to crafting innovative and high-quality web solutions. Building on a solid foundation from my IT studies (high school and a bachelor's degree), I specialize in the JavaScript ecosystem, particularly **TypeScript**, **Vue.js**, and **Nuxt.js**. As a technical leader, I emphasize web accessibility (a11y), code maintainability, performance, and software quality through rigorous testing. I’m a firm believer in knowledge sharing and am passionate about mentoring and fostering team growth.
