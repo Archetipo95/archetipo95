@@ -1,57 +1,21 @@
-# Hi there 👋 I'm Martin
+# Hi, I'm Martin
 
-My website: https://martinmasevski.dev/
+Senior Frontend Engineer at Hubcore.ai (Destination Italia group), fully remote from Italy.
+I build the quality gates that let teams, and AI coding agents, ship UI fast without breaking it.
 
-## 👨🏼‍💻 About Me
+## Building now
 
-I'm a Software Engineer deeply passionate about front-end development, with over 5 years of professional experience dedicated to crafting innovative and high-quality web solutions. Building on a solid foundation from my IT studies (high school and a bachelor's degree), I specialize in the JavaScript ecosystem, particularly **TypeScript**, **Vue.js**, and **Nuxt.js**. As a technical leader, I emphasize web accessibility (a11y), code maintainability, performance, and software quality through rigorous testing. I’m a firm believer in knowledge sharing and am passionate about mentoring and fostering team growth.
+- [**LocalVoice Studio**](https://github.com/Archetipo95/localvoice-studio): private text-to-speech that runs a neural model fully in the browser (ONNX Runtime Web, WebGPU with a WASM fallback). [Live demo](https://localvoice-studio.netlify.app)
+- [**storybook-github-pages**](https://github.com/Archetipo95/storybook-github-pages): Storybook deploys, PR previews and coverage badges on GitHub Pages. Runs Hubcore's Storybook in production.
+- [**storybook-github-swiss-knife**](https://github.com/Archetipo95/storybook-github-swiss-knife): visual regression and accessibility checks on every pull request.
 
----
+## Before
 
-## 🏆 My Proudest Achievement
+- Team lead on Armani.com and Woolrich.com (40+ markets): code quality, developer experience and the test stack.
+- Built and led a 4-person QA team. Test gates on every PR cut manual QA by 75%.
 
-I'm particularly proud of my contributions as a **Lead Developer** and **QA Lead** on large-scale e-commerce projects for world-renowned brands like **Armani** and **Woolrich**. Leveraging Vue.js, Nuxt.js, and headless architectures, we significantly enhanced clients' ability to scalably manage multiple international sites and multilingual content. My role was pivotal in:
+**Stack:** TypeScript · Vue 3 · Nuxt · Storybook · Playwright · Vitest · GitHub Actions · Accessibility
 
-- Coordinating the Quality Assurance team
-- Guiding a team of developers
-- Defining and assigning tasks based on seniority
-- Resolving roadblocks
-- Ensuring the highest standards of code quality and testing
-
-Developing accessible interfaces and ensuring everyone can have a usable and enjoyable user experience is an aspect of my work I deeply value.
+**Writing:** [martinmasevski.dev](https://martinmasevski.dev) · [LinkedIn](https://www.linkedin.com/in/masevski/)
 
 [![Archetipo95 Nuxter profile](https://nuxters.nuxt.com/card/Archetipo95/og.png)](https://nuxters.nuxt.com/Archetipo95)
-
----
-
-## 🧘🏼‍♂️ My Philosophy
-
-> **"Leave the place better than you found it"**
-
-This simple phrase, inspired by scout ideology, is my guiding principle both professionally and personally. It's not just about physical spaces; it represents a broader commitment to making a positive impact, adding value, and improving every situation, project, or interaction.
-
----
-
-## 💻 Key Technologies & Tools
-
-- **Programming Languages:** TypeScript / JavaScript
-- **Frameworks/Libraries:** Vue.js, Nuxt.js, Tailwind CSS
-- **Version Control:** Git, GitHub
-- **Testing & QA:** Storybook, Chromatic, Playwright, Automated & Manual Testing Methodologies
-- **CI/CD:** Experience with Continuous Integration & Continuous Deployment pipelines
-
----
-
-## 👨🏼‍🏫 Professional Interests
-
-- Software Architecture
-- Clean Code & Best Practices
-- Advanced Testing Techniques
-- Web Accessibility (a11y)
-- AI applied to Front-End Development
-
----
-
-## 🥾 Outside of Work
-
-When I'm not coding, I love connecting with nature through trekking and mountain hiking. I'm passionate about traveling, discovering new cultures, reading, and enjoying movies and TV series.
