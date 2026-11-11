@@ -6,8 +6,7 @@ I build the quality gates that let teams, and AI coding agents, ship UI fast wit
 ## Building now
 
 - [**LocalVoice Studio**](https://github.com/Archetipo95/localvoice-studio): private text-to-speech that runs a neural model fully in the browser (ONNX Runtime Web, WebGPU with a WASM fallback). [Live demo](https://localvoice-studio.netlify.app)
-- [**storybook-github-pages**](https://github.com/Archetipo95/storybook-github-pages): Storybook deploys, PR previews and coverage badges on GitHub Pages. Runs Hubcore's Storybook in production.
-- [**storybook-github-swiss-knife**](https://github.com/Archetipo95/storybook-github-swiss-knife): visual regression and accessibility checks on every pull request.
+- [**Storybook Swiss Knife**](https://github.com/Archetipo95/storybook-github-swiss-knife): GitHub Actions for Storybook deploys, PR previews, and visual regression and accessibility checks on every pull request. Runs Hubcore's Storybook in production.
 
 ## Before
 
